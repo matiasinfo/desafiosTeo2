@@ -1,7 +1,7 @@
 # desafiosTeo2
 estos son los desafios que tenemos en la clase de teoria numero 2
 
-##desafio1
+## desafio1
 ingresar una cadena e informar si contiene la letra  "r" con expresion condicional 
 
 ## desafio2 
